@@ -42,7 +42,7 @@ By default it expects your block files to be located directly in the `src_folder
 ```
 .
 └── blocks
-    ├── out
+    ├── dest
     │   └── index.js
     └── src
         ├── Banner.js
